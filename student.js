@@ -15,4 +15,4 @@ var Student = function(name, gender, grade, GPA, detentions, sleepingClass, catc
 	} 
 };
 
-module.exports = Student
+module.exports = Student;
